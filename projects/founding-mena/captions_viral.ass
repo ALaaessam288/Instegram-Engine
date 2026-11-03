@@ -1,0 +1,82 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Noto Kufi Arabic,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,90,170,0,1
+Style: Big,Noto Kufi Arabic,210,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,12,6,5,40,40,0,1
+Style: Kick,Noto Kufi Arabic,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+Style: List,Noto Kufi Arabic,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,6,40,40,0,1
+Style: Box,Noto Kufi Arabic,10,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 5,0:00:24.71,0:00:24.96,Box,,0,0,0,,{\an7\pos(0,0)\p1\c&HFFFFFF&\fad(0,230)}m 0 0 l 1080 0 l 1080 1920 l 0 1920{\p0}
+Dialogue: 4,0:00:00.00,0:00:29.09,Box,,0,0,0,,{\an7\pos(0,0)\p1\c&H0AD6FF&\fscx0\t(0,29090,\fscx100)}m 0 0 l 1080 0 l 1080 12 l 0 12{\p0}
+Dialogue: 3,0:00:00.00,0:00:01.92,Kick,,0,0,0,,{\an5\pos(540,300)\fad(80,0)}‏خطة HUMAIN:‏
+Dialogue: 3,0:00:00.00,0:00:00.05,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}0.0
+Dialogue: 3,0:00:00.05,0:00:00.10,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}0.5
+Dialogue: 3,0:00:00.10,0:00:00.15,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}0.9
+Dialogue: 3,0:00:00.15,0:00:00.20,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}1.4
+Dialogue: 3,0:00:00.20,0:00:00.25,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}1.9
+Dialogue: 3,0:00:00.25,0:00:00.30,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}2.4
+Dialogue: 3,0:00:00.30,0:00:00.35,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}2.8
+Dialogue: 3,0:00:00.35,0:00:00.40,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}3.3
+Dialogue: 3,0:00:00.40,0:00:00.45,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}3.8
+Dialogue: 3,0:00:00.45,0:00:00.50,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}4.2
+Dialogue: 3,0:00:00.50,0:00:00.55,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}4.7
+Dialogue: 3,0:00:00.55,0:00:00.60,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}5.2
+Dialogue: 3,0:00:00.60,0:00:00.65,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}5.7
+Dialogue: 3,0:00:00.65,0:00:00.70,Big,,0,0,0,,{\an5\pos(540,470)\fscx100\fscy100}{\c&H0AD6FF&}6.1
+Dialogue: 3,0:00:00.70,0:00:01.92,Big,,0,0,0,,{\an5\pos(540,470)\fscx118\fscy118}{\c&H0AD6FF&}6.6
+Dialogue: 3,0:00:00.15,0:00:01.92,Kick,,0,0,0,,{\an5\pos(540,640)\fad(120,0)}‏جيجاوات كهربا‏
+Dialogue: 3,0:00:02.72,0:00:05.84,Big,,0,0,0,,{\an5\pos(540,430)\fscx40\fscy40\t(0,140,\fscx115\fscy115)\t(140,260,\fscx100\fscy100)}{\c&H0AD6FF&}10٪
+Dialogue: 3,0:00:01.96,0:00:05.84,Kick,,0,0,0,,{\an5\pos(540,620)\fad(100,0)}‏من كهربا السعودية كلها‏
+Dialogue: 2,0:00:01.96,0:00:05.84,Box,,0,0,0,,{\an7\pos(140,700)\p1\c&HFFFFFF&\alpha&H90&\fad(100,0)}m 0 0 l 800 0 l 800 46 l 0 46{\p0}
+Dialogue: 3,0:00:02.72,0:00:05.84,Box,,0,0,0,,{\an7\pos(860,700)\p1\c&H0AD6FF&\fscx0\t(0,450,\fscx100)}m 0 0 l 80 0 l 80 46 l 0 46{\p0}
+Dialogue: 3,0:00:10.77,0:00:12.59,Big,,0,0,0,,{\an5\pos(540,430)\frz-6\fscx160\fscy160\t(0,150,\fscx100\fscy100)}{\c&H0AD6FF&}‏+10 مليار‏
+Dialogue: 3,0:00:10.87,0:00:12.59,Kick,,0,0,0,,{\an5\pos(540,610)\fad(80,0)}‏استثمار في HUMAIN‏
+Dialogue: 3,0:00:14.41,0:00:19.85,Kick,,0,0,0,,{\an6\pos(1000,250)\fad(120,0)}‏{\c&H0AD6FF&}كل المراحل:‏
+Dialogue: 3,0:00:15.41,0:00:19.85,List,,0,0,0,,{\an6\pos(1000,360)\fad(60,0)\fscx60\fscy60\t(0,120,\fscx100\fscy100)}‏محطات كهربا {\fnDejaVu Sans\c&H0AD6FF&}✔
+Dialogue: 3,0:00:16.05,0:00:19.85,List,,0,0,0,,{\an6\pos(1000,465)\fad(60,0)\fscx60\fscy60\t(0,120,\fscx100\fscy100)}‏داتا سنترز {\fnDejaVu Sans\c&H0AD6FF&}✔
+Dialogue: 3,0:00:17.05,0:00:19.85,List,,0,0,0,,{\an6\pos(1000,570)\fad(60,0)\fscx60\fscy60\t(0,120,\fscx100\fscy100)}‏موديلات {\fnDejaVu Sans\c&H0AD6FF&}✔
+Dialogue: 3,0:00:18.19,0:00:19.85,List,,0,0,0,,{\an6\pos(1000,675)\fad(60,0)\fscx60\fscy60\t(0,120,\fscx100\fscy100)}‏نموذج لغوي خاص {\fnDejaVu Sans\c&H0AD6FF&}✔
+Dialogue: 3,0:00:18.99,0:00:19.85,List,,0,0,0,,{\an6\pos(1000,780)\fad(60,0)\fscx60\fscy60\t(0,120,\fscx100\fscy100)}‏تطبيقات {\fnDejaVu Sans\c&H0AD6FF&}✔
+Dialogue: 3,0:00:24.71,0:00:25.65,Big,,0,0,0,,{\an5\pos(540,450)\fscx170\fscy170\t(0,140,\fscx100\fscy100)}{\c&H0AD6FF&}‏عصر الـAI‏
+Dialogue: 3,0:00:24.79,0:00:25.65,Kick,,0,0,0,,{\an5\pos(540,620)}‏السعودية داخلة‏
+Dialogue: 1,0:00:00.08,0:00:01.30,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏6.6 جيجاوات‏
+Dialogue: 1,0:00:01.36,0:00:01.92,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏من الكهربا‏
+Dialogue: 1,0:00:01.96,0:00:02.70,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏يعني حوالي‏
+Dialogue: 1,0:00:02.72,0:00:03.22,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏10٪‏
+Dialogue: 1,0:00:03.24,0:00:04.00,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏من اللي بتستهلكه‏
+Dialogue: 1,0:00:04.02,0:00:05.02,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏السعودية‏
+Dialogue: 1,0:00:05.04,0:00:05.84,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏النهارده‏
+Dialogue: 1,0:00:05.84,0:00:06.99,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏HUMAIN طبعًا‏
+Dialogue: 1,0:00:06.99,0:00:08.15,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏مدعومة من السعودية‏
+Dialogue: 1,0:00:08.15,0:00:09.41,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏ذراع PIF‏
+Dialogue: 1,0:00:09.41,0:00:10.01,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏للذكاء الاصطناعي‏
+Dialogue: 1,0:00:10.01,0:00:10.77,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏حوالي‏
+Dialogue: 1,0:00:10.77,0:00:11.45,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏+10 مليار‏
+Dialogue: 1,0:00:11.45,0:00:11.97,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏اتستثمروا‏
+Dialogue: 1,0:00:11.97,0:00:12.59,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏في HUMAIN‏
+Dialogue: 1,0:00:12.59,0:00:13.63,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏وشغالين على‏
+Dialogue: 1,0:00:13.63,0:00:14.41,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏كل المراحل‏
+Dialogue: 1,0:00:14.41,0:00:16.03,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏من محطات الكهربا‏
+Dialogue: 1,0:00:16.03,0:00:16.80,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏للداتا سنترز‏
+Dialogue: 1,0:00:17.00,0:00:17.47,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏والموديلات‏
+Dialogue: 1,0:00:17.47,0:00:18.17,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏وعندهم‏
+Dialogue: 1,0:00:18.17,0:00:18.57,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏LLM خاص بيهم‏
+Dialogue: 1,0:00:18.57,0:00:18.97,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏لحد‏
+Dialogue: 1,0:00:18.97,0:00:19.85,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏التطبيقات‏
+Dialogue: 1,0:00:19.85,0:00:20.41,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏ده مذهل!‏
+Dialogue: 1,0:00:20.41,0:00:21.25,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏لوحدهم‏
+Dialogue: 1,0:00:21.25,0:00:22.57,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏هيدخّلوا‏
+Dialogue: 1,0:00:22.57,0:00:24.11,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏المملكة‏
+Dialogue: 1,0:00:24.11,0:00:24.71,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)\c&H0AD6FF&}‏العربية السعودية‏
+Dialogue: 1,0:00:25.65,0:00:26.59,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏حاجة مش طبيعية‏
+Dialogue: 1,0:00:26.59,0:00:27.31,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏بس لو بصّيت‏
+Dialogue: 1,0:00:27.31,0:00:28.23,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏على طموحهم إنهم‏
+Dialogue: 1,0:00:28.23,0:00:00.00,Cap,,0,0,0,,{\pos(500,1190)\fscx85\fscy85\t(0,90,\fscx100\fscy100)}‏يجيبوا...‏
